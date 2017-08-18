@@ -19,6 +19,6 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void put(View v){
-        textView.setText("世界您好");
+        textView.setText("世界您好8");
     }
 }
